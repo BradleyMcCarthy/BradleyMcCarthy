@@ -1,4 +1,4 @@
-<img align ="right" src="https://sdk.bitmoji.com/render/panel/9871ff38-c48d-4972-a905-69c9cfdbe79e-394eb900-6bdf-4c3d-862d-2f7d68667631-v1.png?transparent=1&palette=1"></img>
+<img align ="right" src="BitWave.png"></img>
 
 <h2> Hi 👋, I'm Bradley!</h2>
 <p><em>First year Computer Science student at <a href=https://www.ncl.ac.uk">Newcastle University</a></em></p>
