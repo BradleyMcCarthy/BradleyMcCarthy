@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/profile_banners/1359532211830194180/1613056439/1080x360"></img>
+
 <h2> Hi 👋, I'm Bradley!</h2>
 <p><em>First year Computer Science student at <a href=https://www.ncl.ac.uk">Newcastle University</a></em></p>
 
