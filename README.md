@@ -1,4 +1,4 @@
-<img align ="right" src="BitWave.png"></img>
+<img align ="right" src="BitWave.png" alt="Cartoon me waving image"></img>
 
 <h2> Hi 👋, I'm Bradley!</h2>
 <p><em>First year Computer Science student at <a href=https://www.ncl.ac.uk">Newcastle University</a></em></p>
