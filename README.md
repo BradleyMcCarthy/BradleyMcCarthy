@@ -1,5 +1,5 @@
 <h2> Hi 👋, I'm Brad!</h2>
-<p><em>Second yearComputer Science student at <a href=https://www.ncl.ac.uk">Newcastle University</a></em></p>
+<p><em>Second year Computer Science student at <a href=https://www.ncl.ac.uk">Newcastle University</a></em></p>
 
 
 <h3>Connect with me:</h3>
