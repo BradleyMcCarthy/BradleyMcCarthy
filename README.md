@@ -49,6 +49,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-plain.svg" 
       alt="angular-js" width="40" height="40"/>      
   </a>
+  <a href="https://www.playframework.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.playframework.com/assets/images/logos/2512c6416003429c3e7d3e9d389e52bd-play_icon_full_color.svg"
+      alt="play-framework" width="40" height="40"/>      
+  </a>
+
+
+  
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" 
       alt="confluence" width="40" height="40"/>   
