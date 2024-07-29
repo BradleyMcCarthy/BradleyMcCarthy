@@ -27,6 +27,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
       alt="mysql" width="40" height="40"/> 
   </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+      alt="git" width="40" height="40"/>   
+  </a> 
   <a href="https://tortoisesvn.net/" target="_blank" rel="noreferrer">
     <img src="https://tortoisesvn.net/assets/img/logo-256x256.png" 
       alt="tortoise-svn" width="40" height="40"/>   
