@@ -4,7 +4,7 @@
 </p>
 
 <p>
-  I’m currently focused on <strong>client projects</strong> that <strong>aren’t open-source</strong>, but I love connecting with other developers here and working on side projects when I can.
+  I’m currently focused on <strong>client projects</strong> that <strong>aren’t open-source</strong>, but I love connecting with other developers and working on side projects when I can.
 </p>
 
 <h3>Connect with me:</h3>
