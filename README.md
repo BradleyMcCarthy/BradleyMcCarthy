@@ -1,6 +1,11 @@
 <h2> Hi 👋, I'm Brad!</h2>
-<p><em>Third year Computer Science student at <a href=https://www.ncl.ac.uk">Newcastle University</a></em></p>
+<p>
+  <em>1st Class Computer Science graduate from <a href="https://www.ncl.ac.uk">Newcastle University</a></em>
+</p>
 
+<p>
+  I’m currently focused on <strong>client projects</strong> that <strong>aren’t open-source</strong>, but I love connecting with other developers here and working on side projects when I can.
+</p>
 
 <h3>Connect with me:</h3>
 <div align="left">
